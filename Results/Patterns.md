@@ -3,8 +3,8 @@
 ## Oberser Pattern
 
   1. Source Code
-    * observer.java
-    * .java file
+    - observer.java
+    - .java file
     
     
     
