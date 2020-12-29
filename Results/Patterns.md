@@ -1,9 +1,9 @@
 # Design pattern Detection
 
-## Oberser Pattern
+## Visitor Pattern
 
   1. Source Code
-    - observer.java
+    - Visitor.java
     - .java file
     
     
